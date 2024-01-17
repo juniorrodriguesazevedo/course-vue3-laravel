@@ -1,2 +1,4 @@
-# course-vue3-laravel
+# Curso Vue3 com Laravel
+
+### Em andamento...
  
